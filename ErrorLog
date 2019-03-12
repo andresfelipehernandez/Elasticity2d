@@ -1,0 +1,14 @@
+[SLINK64 v2.01, Copyright (c) Silverfrost Ltd. 2015-2018]
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\GaussInverse.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\Main.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\ludcmp.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\lubksb.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\Gauss.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\internal.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\Internalmatrix.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\parameter.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\Assemblyc.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\Boundarymatrix.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\inputdata.obj
+Loading C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\mechanical.obj
+Creating executable file C:\Users\andre\Desktop\BEMELASTICITY 2D\Release\x64\Ingreso de datos.exe
